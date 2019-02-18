@@ -13,8 +13,11 @@
 * Mice that were injected with Infubinol had the least survival rates.
 
 
-### Trends Observed from the Data Analysis on Pyber 
+
+
 ### [View Analysis on Pyber](https://github.com/jing0703/Matplotlib-Project/blob/master/Pyber/Pyber_Jing.ipynb)
+
+### Trends Observed from the Data Analysis on Pyber 
 
 * The fares in the rural areas are comparatively more higher followed by Sub-urban areas and cheapest in the Urban areas.
 
